@@ -6,8 +6,6 @@
 
 Welcome to my profile! I'm a full-time BSc. Computer Science student at the Technical University of Munich and working as a SWE at CHECK24. 
 
-Outside of coding, I am a Weighted Calisthenics athlete and have a deep curiosity for languages - especially Japanese. 
-
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/manuel-kour-044138217/)!
 
 # Tech Stack
