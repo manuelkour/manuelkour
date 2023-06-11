@@ -1,10 +1,10 @@
-# プロフィールへようこそ！
+# Welcome to my profile!
 
 [![Linkedin Badge](https://img.shields.io/badge/-manukour-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-kour-044138217/)](https://www.linkedin.com/in/manuel-kour-044138217/)
 [![Instagram Badge](https://img.shields.io/badge/-@manukour-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/manukour/)](https://instagram.com/manukour)
 [![Gmail Badge](https://img.shields.io/badge/-manuelkour-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:manuelkour@gmail.com)
 
-Welcome to my profile! I'm a full-time BSc. Computer Science student at the Technical University of Munich and working as a SWE at CHECK24. 
+I'm Manuel, a full-time BSc. Computer Science student at the Technical University of Munich and working as a SWE at CHECK24. 
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/manuel-kour-044138217/)!
 
